@@ -4,8 +4,7 @@
 ---
 
 ### 🔹 About Me
-- 📊 **Data Analyst** with experience in **Excel, Power BI, Python, SQL and Data Visualization**    
-- 🚀 **Aspiring Data Scientist** (Goal: Become a Data Scientist by 2029)  
+- 📊 **Data Analyst** with experience in **Excel, Power BI, Python, SQL and Data Visualization**     
 - 🛒 **Domain Expertise**: FMCG, Supermarkets, Retail & Supply Chain Analytics  
 
 ---
@@ -18,9 +17,7 @@
 ---
 
 ### 📌 Featured Projects  
-🔹 [📊 Supermarket Sales Analysis](your-project-link)  
-🔹 [📈 Sales Forecasting Using Excel](your-project-link)  
-🔹 [🎥 Corporate Event Highlight Video](your-project-link)  
+🔹 [📊 Supermarket Sales Analysis](https://github.com/aniyadav17/supermarket-sales-analysis)  
 
 ---
 
