@@ -10,7 +10,7 @@
 ---
 
 ### 🛠 Skills & Tools
-- **Data Analytics**: Excel | Power BI | SQL (learning) | Python (beginner)
+- **Data Analytics**: Excel | Power BI | SQL | Python 
 - **Business Intelligence**: Data Cleaning, Visualization, Forecasting
 - **Business & Soft Skills**: Data-Driven Decision Making,A/B Testing, KPI Analysis, Reporting, Communication Skills, Problem-Solving, Critical Thinking
 
@@ -18,6 +18,8 @@
 
 ### 📌 Featured Projects  
 🔹 [📊 Supermarket Sales Analysis](https://github.com/aniyadav17/supermarket-sales-analysis)  
+🔹 [📊 Business_Insights_360](https://github.com/aniyadav17/Business_Insights_360)  
+
 
 ---
 
