@@ -18,7 +18,8 @@
 
 ### 📌 Featured Projects  
 🔹 [📊 Supermarket Sales Analysis](https://github.com/aniyadav17/supermarket-sales-analysis)  
-🔹 [📊 Business_Insights_360](https://github.com/aniyadav17/Business_Insights_360)  
+🔹 [📊 Business-Insights-360](https://github.com/aniyadav17/Business_Insights_360)  
+🔹 [📊 AtliQ-Hospitality-Analysis](https://github.com/aniyadav17/AtliQ-Hospitality-Analysis)
 
 
 ---
