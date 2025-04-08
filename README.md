@@ -30,7 +30,7 @@
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/anil-yadav1795)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anil-yadav1795)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@DataInShorts)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=portfolio)](https://codebasics.io/portfolio/Anil-Kumar-Yadav)  
 
