@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anil Kumar Yadav 👋</h1>
-<h3 align="center">Data Analyst (Retail & Supply Chain) | 8+ yrs in Quality Engineering & FMCG Analytics | BCA Student </h3>
+<h3 align="center">Data Analyst (Sales & Supply Chain) | 6+ yrs in Quality Engineering & FMCG Analytics | BCA Student </h3>
 
 ---
 
