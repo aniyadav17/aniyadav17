@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anil Kumar Yadav 👋</h1>
-<h3 align="center">Data Analytics Professional | 2+ yrs in Production, GIS & Data Driven Opertions </h3>
+<h3 align="center">Data Analytics Professional | 2+ yrs in Production, GIS & Data Driven Operations </h3>
 
 ---
 
