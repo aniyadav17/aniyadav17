@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Anil Kumar Yadav 👋</h1>
-<h3 align="center">Data Analytics Professional | 2+ yrs in Production, GIS & Data Driven Operations </h3>
+<h3 align="center">Sr. Executive - MIS (Operations)  | 6+ yrs in Production, Inventory, Logistics, Data Driven Operations </h3>
 
 ---
 
 ### 🔹 About Me
-- 📊 **Data Analyst** with experience in **Excel, Power BI, Python, SQL and Data Visualization**     
-- 🛒 **Domain Expertise**: Manufacturing, GIS  
+- 📊 **Sr. Executive** with experience in **Excel, Power BI, and Dynamics 365 Business Central**     
+- 🛒 **Domain Expertise**: Production, Inventory, Logistics, MIS
 
 ---
 
 ### 🛠 Skills & Tools
-- **Data Analytics**: Excel | Power BI | SQL | Python 
+- **Data Analytics**: Excel | Power BI | Business Central 
 - **Business Intelligence**: Data Cleaning, Visualization, Forecasting
-- **Business & Soft Skills**: Data-Driven Decision Making,A/B Testing, KPI Analysis, Reporting, Communication Skills, Problem-Solving, Critical Thinking
+- **Business & Soft Skills**: Data-Driven Decision Making,Root Cause Analysis, KPI Analysis, Reporting, Process Optimization, Problem-Solving, Critical Thinking
 
 ---
 
