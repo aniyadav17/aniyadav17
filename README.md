@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anil Kumar Yadav 👋</h1>
+<h1 align="center">Hi, I'm Anil Yadav 👋</h1>
 <h3 align="center">Data & Business Analyst | MIS & Reporting Analytics</h3>
 
 <p align="center">
