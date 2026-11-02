@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Anil Yadav 👋</h1>
-<h3 align="center">Data & Business Analyst | MIS & Reporting Analytics</h3>
+<h3 align="center">
+Supply Chain Analyst | Inventory & Demand Planning Analytics | Power BI & SQL
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anil-yadav1795"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
