@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anil Yadav 👋</h1>
 <h3 align="center">
-Supply Chain Analyst | Inventory & Demand Planning Analytics | Power BI & SQL
+Sr. Executive - Supply Chain | Inventory & Demand Planning Analytics | Power BI & SQL
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Data-driven professional who enjoys solving business problems with data, process
 practical solutions. Skilled in Business Analysis, ERP, SQL, Power BI and Advanced Excel, with a focus
 on connecting people, processes and data to make work simpler and decisions smarter.
 
-- 📊 **Sr. MIS Executive** at Maharishi Ayurveda, Noida — own the Power BI reporting layer for Sales, Inventory, Supply Chain & Production
+- 📊 **Sr. Executive - Supply Chain** at Maharishi Ayurveda, Noida — demand forecasting & production planning, plus Power BI reporting for Sales, Inventory, Supply Chain & Production
 - 🏭 **Domain expertise**: Sales & Distribution · Inventory · Supply Chain · Production · MIS
 - 🎓 **ECBA — Entry Certificate in Business Analysis (IIBA)**, in progress
 - 📍 Noida, India
